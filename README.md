@@ -1,5 +1,7 @@
 # SHOP
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/polymer-shop.svg)](https://greenkeeper.io/)
+
 ### Setup
 
 ##### Prerequisites
